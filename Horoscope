@@ -1,1 +1,34 @@
-T
+Print(" Horoscope project")
+Print("Your Horoscope is Aries")
+number=int(input("Please enter your number")
+next=TRUE
+while next=TRUE:
+If number==1:
+    Print("Your Horoscope is Aries")
+If number==2:
+    Print("Your Horoscope is Taurus")
+If number==3:
+    Print("Your Horoscope is Gemini")
+elif number==4:
+    Print("Your Horoscope is Cancer")
+elif number==5:
+    Print("Your Horoscope is Leo ")
+elif number==6:
+    Print("Your Horoscope is Virgo")
+elif number==7:
+    Print("Your Horoscope is Libra")
+elif number==8:
+    Print("Your Horoscope is Scorpio")
+elif number==9:
+    Print("Your Horoscope is Sagittarius")
+elif number==10:
+    Print("Your Horoscope is Capricorn")
+elif number==11:
+    Print("Your Horoscope is Aquarius")
+elif number==12:
+    Print("Your Horoscope is Pisces")
+else Print("Your you entered a wrong number Horoscope")
+  temp=input(" Do you want again:Y/N \n"):
+      if temp=="Y"
+          next=true
+      else next=false
